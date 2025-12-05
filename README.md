@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Lin</h1>
-<h3 align="center">A passionate software developer with a focus on FullStack, AI including ML, DL and LLM, data science, algorithms etc</h3>
+<h3 align="center">A passionate software developer with a focus on Blockchain(Web3), FullStack, AI including ML, DL and LLM, data science, algorithms etc</h3>
 
 - 🔭 I’ve already finished **all the projects of COMMON CORE in 42Barcelona**
 
-- 🌱 I’m currently learning **all about Fullstack Web Application, Algorithm, LLM, ML, Deep Learning**
+- 🌱 I’m currently diving deeper into **all about Blockchain, Fullstack Web Application, LLM, ML, Deep Learning**
 
 - 👯 I’m looking to collaborate on **friendly, creative, proactive group**
 
