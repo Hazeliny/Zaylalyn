@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Lin</h1>
+<h1 align="center">👋 Hi there, I'm Zayla</h1>
 <h3 align="center">A passionate software developer with a focus on Blockchain(Web3), FullStack, AI including ML, DL and LLM, data science, algorithms etc</h3>
 
 - 🔭 I’ve already finished **all the projects of COMMON CORE in 42Barcelona**
